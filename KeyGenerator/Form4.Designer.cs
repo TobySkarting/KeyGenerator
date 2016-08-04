@@ -65,7 +65,7 @@
             this.Controls.Add(this.textBox1);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedToolWindow;
             this.Name = "Form4";
-            this.Text = "Some weightes checksum";
+            this.Text = "Some weighted checksum";
             this.ResumeLayout(false);
             this.PerformLayout();
 
